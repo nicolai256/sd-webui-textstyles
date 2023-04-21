@@ -15,7 +15,6 @@ I recommend using ControlNet HED to get the edges of the letters and an image si
 
 ![xy_grid-0006-2934360860 0](https://github.com/nicolai256/sd-webui-textstyles/blob/main/Capture3.PNG?raw=true)
 
-#### **Feel free to do a pull request or open an issue if you have any suggestions for additional features or improvements.**
 
 ### Features
 
@@ -40,6 +39,6 @@ I recommend using ControlNet HED to get the edges of the letters and an image si
 6. Go to "Installed" tab, click "Check for updates", and then click "Apply and restart UI". (The next time you can also use this method to update ControlNet.)
 7. Completely restart A1111 webui including your terminal. (If you do not know what is a "terminal", you can reboot your computer: turn your computer off and turn it on again.)
 
-
+#### **Feel free to do a pull request or open an issue if you have any suggestions for additional features or improvements.**
 
 
