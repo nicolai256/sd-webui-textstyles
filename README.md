@@ -1,7 +1,5 @@
 # sd-webui-textstyles
 
-preprocessing for controlnet textstyles
-
 - preprocessing for controlnet textstyles extention for [AUTOMATIC1111's stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 
 
 This script allows you to easily generate PNG files for every letter in a word for batch processing in Stable Diffusion. 
@@ -16,6 +14,8 @@ Similar to Adobe's last release of Text Styles, this script can help you achieve
 I recommend using ControlNet HED to get the edges of the letters and an image size of 1024px to get better quality, adjust the settings to get different effects.
 
 ![xy_grid-0006-2934360860 0](https://github.com/nicolai256/sd-webui-textstyles/blob/main/Capture3.PNG?raw=true)
+
+#### **Feel free to do a pull request or open an issue if you have any suggestions for additional features or improvements.**
 
 ### Features
 
@@ -41,5 +41,5 @@ I recommend using ControlNet HED to get the edges of the letters and an image si
 7. Completely restart A1111 webui including your terminal. (If you do not know what is a "terminal", you can reboot your computer: turn your computer off and turn it on again.)
 
 
-#### **Feel free to do a pull request or open an issue if you have any suggestions for additional features or improvements.**
+
 
