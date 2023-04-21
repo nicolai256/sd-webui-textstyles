@@ -41,4 +41,8 @@ I recommend using ControlNet HED to get the edges of the letters and an image si
 
 #### **Feel free to do a pull request or open an issue if you have any suggestions for additional features or improvements.**
 
+## IDEAS
 
+* layer styles similar to photoshop (inner glow, stroke, bevel)
+
+* make presets for controlnet
