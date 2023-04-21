@@ -6,14 +6,18 @@ preprocessing for controlnet textstyles
 
 This script allows you to easily generate PNG files for every letter in a word for batch processing in Stable Diffusion. 
 
+![xy_grid-0006-2934360860 0](https://github.com/nicolai256/sd-webui-textstyles/blob/main/Capture.PNG?raw=true)
+
 Similar to Adobe's last release of Text Styles, this script can help you achieve style effects on your text without having to make seperate png's. 
 (you will have to postprocess the images after generating to make the words whole again with an image editor.)
 
+![xy_grid-0006-2934360860 0](https://github.com/nicolai256/sd-webui-textstyles/blob/main/Capture2.PNG?raw=true)
 
 I recommend using ControlNet HED to get the edges of the letters and an image size of 1024px to get better quality, adjust the settings to get different effects.
 
+![xy_grid-0006-2934360860 0](https://github.com/nicolai256/sd-webui-textstyles/blob/main/Capture3.PNG?raw=true)
 
-# **Features:**
+### Features
 
 * Supports your own font .otf/.ttf files
 
@@ -39,4 +43,3 @@ I recommend using ControlNet HED to get the edges of the letters and an image si
 
 #### **Feel free to do a pull request or open an issue if you have any suggestions for additional features or improvements.**
 
-![xy_grid-0006-2934360860 0](https://user-images.githubusercontent.com/122196982/214343111-e82bb20a-799b-4026-8e3c-dd36e26841e3.jpg)
